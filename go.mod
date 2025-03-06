@@ -1,5 +1,7 @@
 module github.com/tailscale/caddy-tailscale
 
+replace github.com/tailscale/caddy-tailscale => github.com/nerdlich/caddy-tailscale v0.0.1
+
 go 1.23.1
 
 toolchain go1.23.5
